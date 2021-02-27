@@ -1,0 +1,5 @@
+node_modules
+.env
+.temp.txt
+exemple.log
+candles-bot-a6b2d-2b52fa8d01df.json
