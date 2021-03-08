@@ -10,8 +10,8 @@ async function cadastra(email, nome, sobrenome, uid) {
         email: email,
         sobrenome: sobrenome,
         uid: uid,
-        iqMail: "",
-        ipSenha: ""
+        login: false,
+        validade: ""
     })
 }
 
