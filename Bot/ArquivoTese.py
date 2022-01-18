@@ -41,7 +41,7 @@ print('''
  ------------------------------------
 ''')
 
-API = IQ_Option('gustavoacm06@gmail', 'FeGu3112')
+API = IQ_Option('username', 'senha')
 API.connect()
 
 API.change_balance('PRACTICE') # PRACTICE / REAL
