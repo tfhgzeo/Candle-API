@@ -28,4 +28,4 @@ async function loginIqoptin(senha) {
 // criaSinais(lista)
 // chamaBotPythonShell(vela, entrada, gale, loss, win, senha)
 
-let login = loginIqoptin("FeGu3112");
+let login = loginIqoptin("senha");
